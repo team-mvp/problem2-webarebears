@@ -1,5 +1,5 @@
 /*
-* Copyright (c) 2016 CS 131 1st Semester. All rights reserved.
+* Copyright (c) 2016 CS 131. All rights reserved.
 */
 
 package webarebears.prob2branch;
