@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="3" failures="0" name="webarebears.prob2branch.RK4ClassTest" time="5.919" errors="0" skipped="0">
+<testsuite tests="3" failures="0" name="webarebears.prob2branch.RK4ClassTest" time="6.522" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-8-oracle/jre/lib/amd64"/>
@@ -24,7 +24,7 @@
 "/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="os.name" value="Linux"/>
-    <property name="classworlds.conf" value="/home/kirzten/workspace/.metadata/.plugins/org.eclipse.m2e.core/launches/m2conf942901144440924947.tmp"/>
+    <property name="classworlds.conf" value="/home/kirzten/workspace/.metadata/.plugins/org.eclipse.m2e.core/launches/m2conf7711235252735020189.tmp"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
     <property name="java.library.path" value="/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
@@ -59,7 +59,7 @@
     <property name="sun.desktop" value="gnome"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="webarebears.prob2branch.RK4ClassTest" name="testCheckInitialVal" time="0.008"/>
+  <testcase classname="webarebears.prob2branch.RK4ClassTest" name="testCheckInitialVal" time="0.009"/>
   <testcase classname="webarebears.prob2branch.RK4ClassTest" name="testStepSize" time="0.001"/>
-  <testcase classname="webarebears.prob2branch.RK4ClassTest" name="testAnswers" time="0.001"/>
+  <testcase classname="webarebears.prob2branch.RK4ClassTest" name="testAnswers" time="0"/>
 </testsuite>
